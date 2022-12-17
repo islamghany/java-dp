@@ -1,4 +1,4 @@
-package creational;
+package creational.FactoryMethod;
 
 // suppose you want to make generic button that can work on both mobile and on the web
 
